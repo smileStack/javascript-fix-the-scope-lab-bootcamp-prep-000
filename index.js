@@ -35,10 +35,6 @@ console.log(funkyFunction);
 // NOTE: you only need to modify the code below this line.
 var theFunk = funkyFunction;
 
-console.log(theFunk);
-console.log(theFunk());
 
     theFunk = funkyFunction();
     theFunk = theFunk();
-    console.log(theFunk);
-    console.log(theFunk());
